@@ -3,6 +3,6 @@
 
     <string name="app_name">TestApp</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">New Activity for Github</string>
 
 </resources>
