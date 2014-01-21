@@ -6,13 +6,16 @@ import android.util.Log;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
-	
+
 	private static String TAG = MainActivity.class.getSimpleName();
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
 		Log.d(TAG, "Test code");
+		
+		Log.d(TAG, "Add log");
 	}
 
 	@Override
